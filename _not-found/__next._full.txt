@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:"static/chunks/889-89ed04ab193ce359.js"
+3:"static/chunks/app/page-d020962386393a44.js"
+4:I[6889,["889","$2","974","$3"],"Header"]
+5:I[781,[],""]
+6:I[6617,[],""]
+7:I[6889,["889","$2","974","$3"],"Footer"]
+8:"static/chunks/app/layout-fc5ce400094e7cca.js"
+9:I[5869,["889","$2","177","$8"],""]
+d:I[4016,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[4016,[],"$10"]
+13:"MetadataBoundary"
+14:I[4016,[],"$13"]
+16:I[719,[],"default",1]
+:HL["/_next/static/css/998a6084f58b412d.css","style"]
+b:X
+c:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"wrap document","children":[["$","h1",null,{"children":"A seat is missing."}],["$","p",null,{"children":"This page could not be found."}],["$","a",null,{"href":"/","children":"Return to the game →"}]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":false,"v":null}}]]
+a:[["children",{"s":"_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qc"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/998a6084f58b412d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"wrap document","children":[["$","h1",null,{"children":"A seat is missing."}],["$","p",null,{"children":"This page could not be found."}],["$","a",null,{"href":"/","children":"Return to the game →"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{}],["$","$L9",null,{"src":"https://data.1back.link/js/app.js","data-domain":"bestfriendsfordinner.online","data-api":"https://data.1back.link/api/send","strategy":"afterInteractive"}]]}]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":"$L12"}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":"$L15"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"X-u9sGsFuPCeTruApL5dN"}
+b:C
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[5865,[],"IconMark"]
+f:null
+15:[["$","title","0",{"children":"Best Friends for Dinner! — A Sweetly Unsettling Story"}],["$","meta","1",{"name":"description","content":"Meet Donna and Oz in Best Friends for Dinner, a short dark-comedy visual novel by Demonward. Open the browser game, watch videos and find the original release."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"Best Friends for Dinner,Demonward visual novel,Best Friends for Dinner browser game"}],["$","link","4",{"rel":"canonical","href":"https://bestfriendsfordinner.online/"}],["$","meta","5",{"property":"og:title","content":"Best Friends for Dinner! — A Sweetly Unsettling Story"}],["$","meta","6",{"property":"og:description","content":"Meet Donna and Oz in Best Friends for Dinner, a short dark-comedy visual novel by Demonward. Open the browser game, watch videos and find the original release."}],["$","meta","7",{"property":"og:image","content":"https://bestfriendsfordinner.online/best-friends-for-dinner-cover.webp"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Best Friends for Dinner! — A Sweetly Unsettling Story"}],["$","meta","11",{"name":"twitter:description","content":"Meet Donna and Oz in Best Friends for Dinner, a short dark-comedy visual novel by Demonward. Open the browser game, watch videos and find the original release."}],["$","meta","12",{"name":"twitter:image","content":"https://bestfriendsfordinner.online/best-friends-for-dinner-cover.webp"}],["$","link","13",{"rel":"icon","href":"/favicon.png"}],["$","$L17","14",{}]]

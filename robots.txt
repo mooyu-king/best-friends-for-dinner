@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestfriendsfordinner.online/sitemap.xml
