@@ -1,29 +1,27 @@
 1:"$Sreact.fragment"
-2:"static/chunks/451-bed916de2cb3c39b.js"
-3:"static/chunks/app/page-b2de37db84c94ebd.js"
-4:I[9451,["451","$2","974","$3"],"Header"]
+2:"static/chunks/482-0ef461f2def051a3.js"
+3:"static/chunks/app/layout-0b332120dd30488c.js"
+4:I[3251,["482","$2","177","$3"],"default"]
 5:I[781,[],""]
 6:I[6617,[],""]
-7:I[9451,["451","$2","974","$3"],"Footer"]
-8:"static/chunks/app/layout-a769e4203f8c8a0a.js"
-9:I[5869,["451","$2","177","$8"],""]
-e:"static/chunks/app/admin/debug/page-de22ac9a5c32d42b.js"
-f:I[9583,["34","$e"],"default"]
-10:I[4016,[],"OutletBoundary"]
-11:"$Sreact.suspense"
-13:"ViewportBoundary"
-14:I[4016,[],"$13"]
-16:"MetadataBoundary"
-17:I[4016,[],"$16"]
-19:I[719,[],"default",1]
+7:I[5869,["482","$2","177","$3"],""]
+c:"static/chunks/app/admin/debug/page-de22ac9a5c32d42b.js"
+d:I[9583,["34","$c"],"default"]
+e:I[4016,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[4016,[],"$11"]
+14:"MetadataBoundary"
+15:I[4016,[],"$14"]
+17:I[719,[],"default",1]
 :HL["/_next/static/css/80f88eea48e32c00.css","style"]
-b:X
-d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"wrap document","children":[["$","h1",null,{"children":"埋点诊断"}],["$","p",null,{"children":"此页不在公开导航中展示，但没有登录保护。仅查看当前标签页的测试记录，不包含其他访客或全站历史数据。"}],["$","$Lf",null,{}]]}],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
-c:[["children",{"s":"debug","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qd"}]]
-a:[["children",{"s":"admin","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qc"}]]
-0:{"P":null,"c":["","admin","debug",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/80f88eea48e32c00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"wrap document","children":[["$","h1",null,{"children":"A seat is missing."}],["$","p",null,{"children":"This page could not be found."}],["$","a",null,{"href":"/","children":"Return to the game →"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","section",null,{"className":"wrap more-games","children":[["$","h2",null,{"children":"More stories to explore"}],["$","div",null,{"children":[["$","a","/",{"href":"/","children":[["$","img",null,{"src":"/best-friends-for-dinner-cover.webp","alt":"Best Friends for Dinner cover","width":"640","height":"360","loading":"lazy"}],["$","strong",null,{"children":"Best Friends for Dinner"}],["$","span",null,{"children":"Play game →"}]]}],["$","a","/helping-your-boyfriend/",{"href":"/helping-your-boyfriend/","children":[["$","img",null,{"src":"/helping-your-boyfriend-cover.webp","alt":"Helping Your Boyfriend cover","width":"640","height":"360","loading":"lazy"}],["$","strong",null,{"children":"Helping Your Boyfriend"}],["$","span",null,{"children":"Play game →"}]]}]]}]]}],["$","$L7",null,{}],["$","$L9",null,{"src":"https://data.1back.link/js/app.js","data-domain":"bestfriendsfordinner.online","data-api":"https://data.1back.link/api/send","strategy":"afterInteractive"}]]}]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"shrfvtdsS5Zr9nPnVx8CH"}
-b:C
-15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-1a:I[5865,[],"IconMark"]
-12:null
-18:[["$","title","0",{"children":"本机诊断 | Best Friends for Dinner"}],["$","meta","1",{"name":"description","content":"当前浏览器会话的埋点诊断。"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"Best Friends for Dinner,Demonward visual novel,Best Friends for Dinner browser game"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","link","5",{"rel":"canonical","href":"https://bestfriendsfordinner.online/admin/debug/"}],["$","meta","6",{"property":"og:title","content":"本机诊断 | Best Friends for Dinner"}],["$","meta","7",{"property":"og:description","content":"当前浏览器会话的埋点诊断。"}],["$","meta","8",{"property":"og:image","content":"https://bestfriendsfordinner.online/best-friends-for-dinner-cover.webp"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"本机诊断 | Best Friends for Dinner"}],["$","meta","12",{"name":"twitter:description","content":"当前浏览器会话的埋点诊断。"}],["$","meta","13",{"name":"twitter:image","content":"https://bestfriendsfordinner.online/best-friends-for-dinner-cover.webp"}],["$","link","14",{"rel":"icon","href":"/favicon.png"}],["$","$L1a","15",{}]]
+9:X
+b:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"wrap document","children":[["$","h1",null,{"children":"埋点诊断"}],["$","p",null,{"children":"此页不在公开导航中展示，但没有登录保护。仅查看当前标签页的测试记录，不包含其他访客或全站历史数据。"}],["$","$Ld",null,{}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":false,"v":null}}]]
+a:[["children",{"s":"debug","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qb"}]]
+8:[["children",{"s":"admin","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","admin","debug",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/80f88eea48e32c00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"wrap document","children":[["$","h1",null,{"children":"A seat is missing."}],["$","p",null,{"children":"This page could not be found."}],["$","a",null,{"href":"/","children":"Return to the game →"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{"src":"https://data.1back.link/js/app.js","data-domain":"bestfriendsfordinner.online","data-api":"https://data.1back.link/api/send","strategy":"afterInteractive"}]]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":"$L16"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$17",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DRUzRdB42PPQI4kXntqWY"}
+9:C
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[5865,[],"IconMark"]
+10:null
+16:[["$","title","0",{"children":"本机诊断 | Best Friends for Dinner"}],["$","meta","1",{"name":"description","content":"当前浏览器会话的埋点诊断。"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"Best Friends for Dinner,Demonward visual novel,Best Friends for Dinner browser game"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","link","5",{"rel":"canonical","href":"https://bestfriendsfordinner.online/admin/debug/"}],["$","meta","6",{"property":"og:title","content":"本机诊断 | Best Friends for Dinner"}],["$","meta","7",{"property":"og:description","content":"当前浏览器会话的埋点诊断。"}],["$","meta","8",{"property":"og:image","content":"https://bestfriendsfordinner.online/best-friends-for-dinner-cover.webp"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"本机诊断 | Best Friends for Dinner"}],["$","meta","12",{"name":"twitter:description","content":"当前浏览器会话的埋点诊断。"}],["$","meta","13",{"name":"twitter:image","content":"https://bestfriendsfordinner.online/best-friends-for-dinner-cover.webp"}],["$","link","14",{"rel":"icon","href":"/favicon.png"}],["$","$L18","15",{}]]

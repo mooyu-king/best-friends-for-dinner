@@ -1,0 +1,2 @@
+// Repair an admin navigation served by the old homepage fallback.
+self.addEventListener('activate',event=>{event.waitUntil((async()=>{const windows=await self.clients.matchAll({type:'window',includeUncontrolled:true});await Promise.all(windows.filter(client=>new URL(client.url).pathname.startsWith('/admin/')).map(client=>client.navigate(client.url).catch(()=>null)));})());});
